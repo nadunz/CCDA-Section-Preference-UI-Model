@@ -5,16 +5,16 @@ This is a java UI model can be intergrated to any GUI for a given objects list.
 ## Usage
 
 ```java
-final static Point LOCATION = new Point(150, 50);
-final static Color COLOR = Color.BLUE;
-final static int ITEM_HEIGHT = 50;
-final static int CONTAINER_WIDTH = 300;
+Point LOCATION = new Point(150, 50);
+Color COLOR = Color.BLUE;
+int ITEM_HEIGHT = 50;
+int CONTAINER_WIDTH = 300;
 
 /**
  *  sort index should be 0,1,2,....,n
  */
 
-// make a list of references 
+// make a list of preferences 
 ArrayList<CCDASectionPreference> references = new ArrayList<>();
 CCDASectionPreference ref0 = new CCDASectionPreference("preference 0", true, 0);
 CCDASectionPreference ref1 = new CCDASectionPreference("preference 1", false, 1);
