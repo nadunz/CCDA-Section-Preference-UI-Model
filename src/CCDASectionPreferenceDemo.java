@@ -35,7 +35,7 @@ public class CCDASectionPreferenceDemo {
          *  sort index should be 0,1,2,....,n
          */
         
-        // make a list of references 
+        // make a list of preferences 
         ArrayList<CCDASectionPreference> references = new ArrayList<>();
         CCDASectionPreference ref0 = new CCDASectionPreference("preference 0", true, 0);
         CCDASectionPreference ref1 = new CCDASectionPreference("preference 1", false, 1);
