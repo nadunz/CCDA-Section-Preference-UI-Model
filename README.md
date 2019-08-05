@@ -2,6 +2,16 @@
     
 This is a java UI model can be intergrated to any GUI for a given objects list. 
 
+## Usage
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
 ## Compile & Run the Demo class
 
 Use Netbeans or cmd
