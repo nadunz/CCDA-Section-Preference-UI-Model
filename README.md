@@ -1,6 +1,6 @@
 # CCDA-Section-Preference-UI-Model
     
-This is a java UI model can be intergrated to any GUI for a given objects list. 
+This is a java UI model can be intergrated to any GUI for a given objects list. The UI-model displays a list of objects(items) which can be moved up-down & have multiple selections.
 
 ## Usage
 
@@ -55,7 +55,7 @@ ArrayList<CCDASectionPreference> itemList = preferenceList.getItemList();
 System.out.println(itemList.toString());
 ```
 
-## Compile & Run the Demo class
+## Compile & Run the Demo Class
 
 Use Netbeans or cmd
 
