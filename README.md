@@ -1,5 +1,7 @@
 # CCDA-Section-Preference-UI-Model
-    
+
+CCDA - Consolidated Clinical Document Architecture
+
 This is a java UI model can be intergrated to any GUI for a given objects list. The UI-model displays a list of objects(items) which can be moved up-down & have multiple selections.
 
 
